@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap');
+body,html{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+*{
+    font-family: 'Merriweather', serif;
+}
+#logo{
+    max-height: 100px;
+    max-width: 200px;
+    margin: 0 auto;
+}
+.about{
+    margin-left: 30px;
+    margin-right: 10px;
+
+}
+.about p,.about li{
+    text-align: justify;
+}
